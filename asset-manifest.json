@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/RestaurantCCBP/static/css/main.e052339a.chunk.css",
+    "main.js": "/RestaurantCCBP/static/js/main.2c8cf1e2.chunk.js",
+    "main.js.map": "/RestaurantCCBP/static/js/main.2c8cf1e2.chunk.js.map",
+    "runtime-main.js": "/RestaurantCCBP/static/js/runtime-main.ae1d5183.js",
+    "runtime-main.js.map": "/RestaurantCCBP/static/js/runtime-main.ae1d5183.js.map",
+    "static/js/2.26726075.chunk.js": "/RestaurantCCBP/static/js/2.26726075.chunk.js",
+    "static/js/2.26726075.chunk.js.map": "/RestaurantCCBP/static/js/2.26726075.chunk.js.map",
+    "index.html": "/RestaurantCCBP/index.html",
+    "static/css/main.e052339a.chunk.css.map": "/RestaurantCCBP/static/css/main.e052339a.chunk.css.map",
+    "static/js/2.26726075.chunk.js.LICENSE.txt": "/RestaurantCCBP/static/js/2.26726075.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae1d5183.js",
+    "static/js/2.26726075.chunk.js",
+    "static/css/main.e052339a.chunk.css",
+    "static/js/main.2c8cf1e2.chunk.js"
+  ]
+}
