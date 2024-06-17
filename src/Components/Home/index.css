@@ -1,0 +1,45 @@
+.resto-contents {
+  height: 100vh;
+  width: 100%;
+}
+.dish-category-list {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  overflow-y: auto;
+}
+.dish-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.loader-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+.dish-category-list-item {
+  flex-grow: 1;
+  flex-shrink: 0;
+  padding: 5px;
+  text-align: center;
+  cursor: pointer;
+}
+.category-button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  font-family: 'Roboto';
+  color: black;
+  font-size: 22px;
+  font-weight: 600;
+}
+.active-category {
+  color: #b74d4d;
+  border-bottom: 2px solid #b74d4d;
+}
