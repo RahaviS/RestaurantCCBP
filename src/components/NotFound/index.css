@@ -1,0 +1,22 @@
+.not-found-page {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.nav-link {
+  text-decoration: none;
+}
+.not-found-text {
+  font-family: 'Roboto';
+  color: rgb(37, 36, 36);
+  font-size: 24px;
+  font-weight: 600;
+}
+.go-home-text {
+  font-family: 'Roboto';
+  color: rgb(3, 83, 24);
+  font-size: 18px;
+  font-weight: 500;
+}
